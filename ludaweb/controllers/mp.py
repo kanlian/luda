@@ -71,7 +71,7 @@ def mphook():
                     count.append(ret['jjqphj'])
                     count.append(ret['qthj'])
                     det.append("●%s:%s笔，发票申领%s笔，其他%s笔\n" % (
-                        ret['nsrzgfjmc'].replace(), str(ret['jjqphj'] + ret['qthj']), str(ret['jjqphj']), str(ret['qthj'])))
+                        ret['nsrzgfjmc'].replace('上海市', ''), str(ret['jjqphj'] + ret['qthj']), str(ret['jjqphj']), str(ret['qthj'])))
 
             des = "截止%s,共收到外区申请事项%s笔，其中\n" % (time.strftime("%Y-%m-%d", time.localtime(time.time())), str(sum(count)))
 
