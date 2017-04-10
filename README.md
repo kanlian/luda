@@ -1,6 +1,8 @@
 # luda
 luda = 鲁达
 
+Hello Him
+
 nginx+gunicorn+flask+mysql
 
 ### ludaweb
@@ -22,7 +24,3 @@ PhantomJS主要用于截取屏幕并通过微信发送图片
 启动 supervisorctl -c supervisor.conf start all
 
 停止 supervisorctl -c supervisor.conf stop all
-
-
-
-
