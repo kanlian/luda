@@ -1,7 +1,6 @@
 # luda
 luda = 鲁达
 
-Hello Him
 
 nginx+gunicorn+flask+mysql
 
