@@ -64,6 +64,7 @@ urlpatterns = [
     Rule('/applications/save', endpoint='saveapplications'),
     Rule('/qstb/<int:id>', endpoint='qstb'),
     Rule('/mps/webhook', endpoint='webhook', methods=['GET', 'POST']),
+    Rule('/ics', endpoint='ics'),
 ]
 api = Api(app)
 api.add_resource(App, '/api/applications')
