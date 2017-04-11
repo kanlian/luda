@@ -62,11 +62,11 @@ def mphook():
             my_imag_url = "http://47.92.37.219/static/img/234979-1404251G15249.jpg"
             application = Application.query.filter_by(id=3).first()
             ret = requests.post(application.url, data={})
-            returnList = ret.json()['result']
+            returnlist = ret.json()['result']
 
             det = []
             count = []
-            for ret in returnList:
+            for ret in returnlist:
                 if '上海市徐汇区税务局' == ret['yyslfjmc']:
                     count.append(ret['jjqphj'])
                     count.append(ret['qthj'])
