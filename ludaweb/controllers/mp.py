@@ -70,14 +70,14 @@ def mphook():
                 if '上海市徐汇区税务局' == ret['yyslfjmc']:
                     count.append(ret['jjqphj'])
                     count.append(ret['qthj'])
-                    det.append("●%s:%s笔，发票申领%s笔，其他%s笔\n" % (
+                    det.append("●%s:%s笔，发票申领%s笔，其他%s笔\n\n" % (
                         ret['nsrzgfjmc'].replace('上海市', ''), str(ret['jjqphj'] + ret['qthj']), str(ret['jjqphj']), str(ret['qthj'])))
 
-            des = "截止%s,共收到外区申请事项%s笔，其中\n" % (time.strftime("%Y-%m-%d", time.localtime(time.time())), str(sum(count)))
+            des = "截止%s,共收到外区申请事项%s笔，其中\n\n" % (time.strftime("%Y-%m-%d", time.localtime(time.time())), str(sum(count)))
 
             response = make_response(xml_rep_mutiimg % (
                 fromu, tou, str(int(time.time())), home_title, des + ''.join(det), my_imag_url,
-                "http://47.92.37.219/qstb/3"))
+                "http://www.yeyepaodecha.com/qstb/3"))
             response.content_type = 'application/xml'
             return response
         else:
