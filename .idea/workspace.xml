@@ -2,8 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9359ccfe-8212-447d-b426-2ce790d008cd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/img/default-50x50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/img/user1-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/img/user2-160x160.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/jvectormap/jquery-jvectormap-1.2.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/jvectormap/jquery-jvectormap-usa-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/jvectormap/jquery-jvectormap-world-mill-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/_all-skins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/_all-skins.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-black-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-black-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-black.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-black.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-blue-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-blue-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-blue.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-green-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-green-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-green.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-purple-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-purple-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-purple.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-red-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-red-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-red.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-yellow-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-yellow-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/css/skins/skin-yellow.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/js/AdminLTE/app.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/js/AdminLTE/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/js/AdminLTE/pages/dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/js/AdminLTE/pages/dashboard2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/js/fastclick/fastclick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/js/fastclick/fastclick.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/js/jQuery/jquery-2.2.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/js/jvectormap/jquery-jvectormap-1.2.2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/js/jvectormap/jquery-jvectormap-1.2.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/js/jvectormap/jquery-jvectormap-usa-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/js/jvectormap/jquery-jvectormap-world-mill-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/js/slimScroll/jquery.slimscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/js/slimScroll/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/js/sparkline/jquery.sparkline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ludaweb/static/js/sparkline/jquery.sparkline.min.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ludaweb/static/js/jquery-ui-1.10.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ludaweb/static/js/jquery-ui-1.10.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ludaweb/static/js/jquery.min.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ludaweb/controllers/mp.py" afterPath="$PROJECT_DIR$/ludaweb/controllers/mp.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ludaweb/static/css/AdminLTE.css" afterPath="$PROJECT_DIR$/ludaweb/static/css/AdminLTE.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ludaweb/static/css/jvectormap/jquery-jvectormap-1.2.2.css" afterPath="$PROJECT_DIR$/ludaweb/static/css/jvectormap/jquery-jvectormap-1.2.2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ludaweb/static/js/AdminLTE/app.js" afterPath="$PROJECT_DIR$/ludaweb/static/js/AdminLTE/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ludaweb/templates/index.html" afterPath="$PROJECT_DIR$/ludaweb/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ludaweb/templates/layout/header.html" afterPath="$PROJECT_DIR$/ludaweb/templates/layout/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ludaweb/templates/layout/layout.html" afterPath="$PROJECT_DIR$/ludaweb/templates/layout/layout.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ludaweb/templates/layout/sidebar.html" afterPath="$PROJECT_DIR$/ludaweb/templates/layout/sidebar.html" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +89,8 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/luda$demo.coverage" NAME="demo Coverage Results" MODIFIED="1491806088010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ludaweb/xiaoi_bot" />
     <SUITE FILE_PATH="coverage/luda$qstb.coverage" NAME="qstb Coverage Results" MODIFIED="1491457911166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ludaweb/controllers" />
-    <SUITE FILE_PATH="coverage/luda$runserver.coverage" NAME="runserver Coverage Results" MODIFIED="1491789393730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ludaweb" />
+    <SUITE FILE_PATH="coverage/luda$as.coverage" NAME="as Coverage Results" MODIFIED="1491876702650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ludawechat" />
+    <SUITE FILE_PATH="coverage/luda$runserver.coverage" NAME="runserver Coverage Results" MODIFIED="1491878713115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ludaweb" />
     <SUITE FILE_PATH="coverage/luda$wsgi.coverage" NAME="wsgi Coverage Results" MODIFIED="1491558691335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ludaweb" />
     <SUITE FILE_PATH="coverage/luda$apps.coverage" NAME="apps Coverage Results" MODIFIED="1491375309145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ludaweb/api" />
     <SUITE FILE_PATH="coverage/luda$example.coverage" NAME="example Coverage Results" MODIFIED="1491457614301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ludaweb/api" />
@@ -33,107 +107,162 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="runwechat.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ludawechat/runwechat.py">
+      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ludaweb/templates/layout/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="35" column="18" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+            <state relative-caret-position="416">
+              <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ludaweb/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="550" column="42" lean-forward="true" selection-start-line="550" selection-start-column="42" selection-end-line="550" selection-end-column="98" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chart.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ludaweb/static/js/chartjs/Chart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery-jvectormap-1.2.2.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ludaweb/static/js/jvectormap/jquery-jvectormap-1.2.2.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ludaweb/static/js/AdminLTE/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="51" column="57" lean-forward="false" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ludaweb/static/js/AdminLTE/demo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
-                <element signature="e#15#30#0" expanded="true" />
+                <marker date="1491888736413" expanded="true" signature="3501:3552" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="3623:3696" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="3740:3792" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="3840:3914" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="3936:4010" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="4308:4359" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="4424:4459" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="4491:4564" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="4586:4659" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="4707:4778" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="4800:4874" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="5176:5227" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="5298:5350" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="5415:5467" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="5515:5589" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="5611:5685" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="5987:6038" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="6109:6161" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="6224:6276" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="6324:6398" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="6420:6494" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="6790:6841" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="6912:6964" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="7023:7075" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="7123:7197" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="7219:7293" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="7591:7642" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="7713:7765" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="7830:7882" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="7930:8004" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="8026:8100" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="8437:8488" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="8559:8632" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="8676:8728" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="8776:8850" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="8872:8946" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="9035:9050" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="9292:9343" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="9408:9443" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="9475:9548" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="9570:9643" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="9691:9765" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="9787:9861" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="9950:9965" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="10211:10262" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="10333:10385" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="10450:10502" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="10550:10624" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="10646:10720" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="10809:10824" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="11070:11121" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="11192:11244" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="11307:11359" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="11407:11481" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="11503:11577" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="11666:11681" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="11921:11972" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="12043:12095" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="12154:12206" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="12254:12328" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="12350:12424" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="12513:12528" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="12770:12821" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="12892:12944" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="13009:13061" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="13109:13183" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="13205:13279" ph="..." />
+                <marker date="1491888736413" expanded="true" signature="13368:13384" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wechat.cfg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ludawechat/config/wechat.cfg">
+      <file leaf-file-name="dashboard.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ludaweb/static/js/AdminLTE/dashboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mp.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ludaweb/controllers/mp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="75" column="43" lean-forward="false" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#24#38#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ludaweb/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ludareply.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ludawechat/captures/ludareply.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
-              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="capturewebpage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ludawechat/captures/capturewebpage.py">
+      <file leaf-file-name="sidebar.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ludaweb/templates/layout/sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="screenshot.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ludawechat/captures/screenshot.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.cfg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ludaweb/config/database.cfg">
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ludaweb/templates/layout/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="75" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="75" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="celerywork.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ludaweb/cron/celerywork.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="23" column="84" lean-forward="false" selection-start-line="23" selection-start-column="84" selection-end-line="23" selection-end-column="84" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ludaweb/wsgi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="1183">
+              <caret line="261" column="14" lean-forward="false" selection-start-line="261" selection-start-column="10" selection-end-line="263" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -163,6 +292,17 @@
       <find>PHANTOM</find>
       <find>wx</find>
       <find>xml_rep</find>
+      <find>dis</find>
+      <find>min</find>
+      <find>/* Sidebar tree view */</find>
+      <find>/* Sidebar tree view *</find>
+      <find>/* Sidebar tree view</find>
+      <find>/* Sidebar tree view</find>
+      <find>Sidebar tree view</find>
+      <find>Direct Chat</find>
+      <find>user2</find>
+      <find>user3</find>
+      <find>user4</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -174,14 +314,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/luda_mp/run.py" />
-        <option value="$PROJECT_DIR$/ludaweb/models/models.py" />
         <option value="$PROJECT_DIR$/ludaweb/controllers/__init__.py" />
         <option value="$PROJECT_DIR$/ludaweb/controllers/index.py" />
         <option value="$PROJECT_DIR$/ludaweb/controllers/widgets.py" />
         <option value="$PROJECT_DIR$/ludaweb/models/user.py" />
-        <option value="$PROJECT_DIR$/ludaweb/templates/index.html" />
-        <option value="$PROJECT_DIR$/ludaweb/templates/layout/sidebar.html" />
         <option value="$PROJECT_DIR$/ludaweb/templates/addapplications.html" />
         <option value="$PROJECT_DIR$/ludaweb/static/js/AdminLTE/app.js" />
         <option value="$PROJECT_DIR$/ludaweb/config/database.cfg" />
@@ -192,8 +328,6 @@
         <option value="$PROJECT_DIR$/ludawechat/runwebchat.py" />
         <option value="$PROJECT_DIR$/ludaweb/static/less/AdminLTE.less" />
         <option value="$PROJECT_DIR$/ludaweb/templates/applications.html" />
-        <option value="$PROJECT_DIR$/ludaweb/templates/layout/header.html" />
-        <option value="$PROJECT_DIR$/ludaweb/templates/layout/layout.html" />
         <option value="$PROJECT_DIR$/ludawechat/ConfigParser.conf" />
         <option value="$PROJECT_DIR$/ludaweb/api/applications.py" />
         <option value="$PROJECT_DIR$/ludaweb/models/applications.py" />
@@ -225,6 +359,12 @@
         <option value="$PROJECT_DIR$/ludawechat/runwechat.py" />
         <option value="$PROJECT_DIR$/ludawechat/captures/capturewebpage.py" />
         <option value="$PROJECT_DIR$/ludaweb/controllers/mp.py" />
+        <option value="$PROJECT_DIR$/ludawechat/as.py" />
+        <option value="$PROJECT_DIR$/ludaweb/templates/layout/sidebar.html" />
+        <option value="$PROJECT_DIR$/ludaweb/templates/layout/layout.html" />
+        <option value="$PROJECT_DIR$/ludaweb/templates/index.html" />
+        <option value="$PROJECT_DIR$/ludaweb/templates/layout/header.html" />
+        <option value="$PROJECT_DIR$/ludaweb/static/js/AdminLTE/demo.js" />
       </list>
     </option>
   </component>
@@ -278,43 +418,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ludawechat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ludawechat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ludawechat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="captures" />
+              <option name="myItemId" value="ludaweb" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -329,6 +433,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ludaweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -346,12 +454,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Documents\ludateam\luda\ludaweb" />
+      <recent name="C:\Users\lenovo\Documents\ludateam\luda\ludaweb\static" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lenovo\Documents\luda\ludaweb\xiaoi" />
-      <recent name="C:\Users\lenovo\Documents\luda\ludaweb\static\img" />
-      <recent name="C:\Users\lenovo\Documents\luda\ludawechat\captures" />
-      <recent name="C:\Users\lenovo\Documents\luda\ludawechat" />
-      <recent name="C:\Users\lenovo\Documents\luda\ludaweb\api" />
+      <recent name="C:\Users\lenovo\Documents\ludateam\luda\ludaweb" />
+      <recent name="C:\Users\lenovo\Documents\ludateam\luda\ludaweb\static\img" />
+      <recent name="C:\Users\lenovo\Documents\ludateam\luda\ludaweb\static\js" />
+      <recent name="C:\Users\lenovo\Documents\ludateam\luda\ludaweb\static\js\AdminLTE" />
+      <recent name="C:\Users\lenovo\Documents\ludateam\luda\ludaweb\static\css\skins" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -366,7 +478,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo">
+  <component name="RunManager" selected="Python.runserver">
     <configuration default="false" name="runwechat" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -405,25 +517,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="ludareply" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ludawechat/captures" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="luda" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ludawechat/captures/ludareply.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="wsgi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -457,6 +550,25 @@
       <module name="luda" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ludaweb/xiaoi_bot/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="as" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ludawechat" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="luda" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ludawechat/as.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -647,17 +759,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.runwechat" />
       <item index="1" class="java.lang.String" itemvalue="Python.runserver" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ludareply" />
-      <item index="3" class="java.lang.String" itemvalue="Python.wsgi" />
-      <item index="4" class="java.lang.String" itemvalue="Python.demo" />
+      <item index="2" class="java.lang.String" itemvalue="Python.wsgi" />
+      <item index="3" class="java.lang.String" itemvalue="Python.demo" />
+      <item index="4" class="java.lang.String" itemvalue="Python.as" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.demo" />
-        <item index="1" class="java.lang.String" itemvalue="Python.runserver" />
-        <item index="2" class="java.lang.String" itemvalue="Python.wsgi" />
-        <item index="3" class="java.lang.String" itemvalue="Python.runwechat" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ludareply" />
+        <item index="0" class="java.lang.String" itemvalue="Python.runserver" />
+        <item index="1" class="java.lang.String" itemvalue="Python.as" />
+        <item index="2" class="java.lang.String" itemvalue="Python.demo" />
+        <item index="3" class="java.lang.String" itemvalue="Python.wsgi" />
+        <item index="4" class="java.lang.String" itemvalue="Python.runwechat" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -706,18 +818,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24379653" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33767772" sideWeight="0.5049628" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2914692" sideWeight="0.49503723" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40165877" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25496277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44549763" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43935928" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -726,9 +838,29 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44549763" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33767772" sideWeight="0.5049628" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2914692" sideWeight="0.49503723" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40165877" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25062034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44549763" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43935928" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -767,86 +899,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Python36-32/Lib/site-packages/flask_restful/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="476" column="0" lean-forward="false" selection-start-line="476" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python36-32/Lib/site-packages/flask/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="1981" column="0" lean-forward="false" selection-start-line="1981" selection-start-column="0" selection-end-line="1981" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python36-32/Lib/site-packages/kombu/transport/redis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="491" column="0" lean-forward="false" selection-start-line="491" selection-start-column="0" selection-end-line="491" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ludaweb/templates/celeryindex.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python36-32/Lib/site-packages/wxpy/api/chats/chat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1480">
-          <caret line="80" column="8" lean-forward="false" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python36-32/Lib/site-packages/wxpy/api/messages/message.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1100">
-          <caret line="173" column="8" lean-forward="false" selection-start-line="173" selection-start-column="8" selection-end-line="173" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python36-32/Lib/threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="863" column="0" lean-forward="false" selection-start-line="863" selection-start-column="0" selection-end-line="863" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ludawechat/captures/static/ludaweb-797f0200d80392a80be8b9e6b2dce07e.jpg" />
-    <entry file="file://$PROJECT_DIR$/ludawechat/captures/static/ludaweb-797f0200d80392a80be8b9e6b2dce07e.png" />
-    <entry file="file://D:/Python36-32/Lib/site-packages/wxpy/utils/misc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python36-32/Lib/site-packages/wxpy/api/bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="325" column="0" lean-forward="false" selection-start-line="325" selection-start-column="0" selection-end-line="325" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ludawechat/captures/static/ludaweb-ea076b60-74b9-467e-b817-794da7531841.jpg" />
-    <entry file="file://$PROJECT_DIR$/ludawechat/captures/static/ludaweb-ca448996-bec9-4f36-a549-954ddfe374f4.jpg" />
-    <entry file="file://$PROJECT_DIR$/ludawechat/captures/static/ludaweb-bdf6a218-bb1a-4123-91d4-d76b3a08b1b7.jpg" />
-    <entry file="file://$PROJECT_DIR$/ludawechat/captures/static/ludaweb-4e176bcb-408c-45ac-99ef-1dd4aacf2660.jpg" />
-    <entry file="file://$PROJECT_DIR$/ludawechat/captures/static/bookmark-bfa89e563d9509fbc5c6503dd50faf2e.png" />
-    <entry file="file://$PROJECT_DIR$/ludaweb/api/example.py" />
-    <entry file="file://$PROJECT_DIR$/ludaweb/api/screenshot.js" />
-    <entry file="file://$PROJECT_DIR$/ludaweb/api/capture.py" />
-    <entry file="file://$PROJECT_DIR$/ludaweb/api/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ludawechat/app.py" />
     <entry file="file://$PROJECT_DIR$/ludawechat/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -866,13 +918,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ludaweb/runserver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -958,7 +1003,7 @@
         <state relative-caret-position="80">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1013,14 +1058,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ludawechat/captures/ludareply.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ludawechat/config/wechat.cfg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -1034,28 +1071,275 @@
         <state relative-caret-position="520">
           <caret line="35" column="18" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
           <folding>
-            <element signature="e#15#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ludawechat/captures/capturewebpage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#15#30#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ludaweb/controllers/mp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="75" column="43" lean-forward="false" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
+        <state relative-caret-position="1060">
+          <caret line="68" column="34" lean-forward="true" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
           <folding>
-            <element signature="e#24#38#0" expanded="true" />
+            <element signature="e#24#38#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludawechat/captures/ludareply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludawechat/as.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="111" column="5" lean-forward="false" selection-start-line="111" selection-start-column="5" selection-end-line="111" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludawechat/captures/capturewebpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/runserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/static/bootstrap/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/static/css/jvectormap/jquery-jvectormap-1.2.2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/static/css/AdminLTE.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/static/css/skins/_all-skins.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/static/js/fastclick/fastclick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/static/js/AdminLTE/pages/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/static/js/sparkline/jquery.sparkline.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/static/js/jvectormap/jquery-jvectormap-1.2.2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/static/js/slimScroll/jquery.slimscroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/static/js/chartjs/Chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/static/js/jQuery/jquery-2.2.3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/templates/layout/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/templates/layout/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1183">
+          <caret line="261" column="14" lean-forward="false" selection-start-line="261" selection-start-column="10" selection-end-line="263" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/static/js/AdminLTE/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="51" column="57" lean-forward="false" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/static/js/AdminLTE/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <marker date="1491888736413" expanded="true" signature="3501:3552" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="3623:3696" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="3740:3792" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="3840:3914" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="3936:4010" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="4308:4359" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="4424:4459" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="4491:4564" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="4586:4659" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="4707:4778" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="4800:4874" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="5176:5227" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="5298:5350" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="5415:5467" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="5515:5589" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="5611:5685" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="5987:6038" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="6109:6161" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="6224:6276" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="6324:6398" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="6420:6494" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="6790:6841" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="6912:6964" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="7023:7075" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="7123:7197" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="7219:7293" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="7591:7642" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="7713:7765" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="7830:7882" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="7930:8004" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="8026:8100" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="8437:8488" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="8559:8632" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="8676:8728" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="8776:8850" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="8872:8946" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="9035:9050" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="9292:9343" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="9408:9443" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="9475:9548" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="9570:9643" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="9691:9765" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="9787:9861" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="9950:9965" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="10211:10262" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="10333:10385" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="10450:10502" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="10550:10624" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="10646:10720" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="10809:10824" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="11070:11121" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="11192:11244" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="11307:11359" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="11407:11481" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="11503:11577" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="11666:11681" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="11921:11972" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="12043:12095" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="12154:12206" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="12254:12328" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="12350:12424" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="12513:12528" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="12770:12821" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="12892:12944" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="13009:13061" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="13109:13183" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="13205:13279" ph="..." />
+            <marker date="1491888736413" expanded="true" signature="13368:13384" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/static/js/AdminLTE/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/static/js/jquery-ui-1.10.3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/templates/layout/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ludaweb/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="550" column="42" lean-forward="true" selection-start-line="550" selection-start-column="42" selection-end-line="550" selection-end-column="98" />
+          <folding />
         </state>
       </provider>
     </entry>
