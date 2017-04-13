@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="luda-feiq" />
+        <module name="springboot-restful" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="luda-feiq" target="1.6" />
+      <module name="ludafeiq" target="1.6" />
+      <module name="springboot" target="1.5" />
+      <module name="springboot-restful" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

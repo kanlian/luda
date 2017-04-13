@@ -1,0 +1,6 @@
+org\luda\feiqserver\Application.class
+org\luda\feiqserver\service\CityService.class
+org\luda\feiqserver\service\impl\CityServiceImpl.class
+org\luda\feiqserver\domain\City.class
+org\luda\feiqserver\controller\CityRestController.class
+org\luda\feiqserver\dao\CityDao.class
