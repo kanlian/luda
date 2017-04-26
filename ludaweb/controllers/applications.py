@@ -34,8 +34,8 @@ def save():
 
     db.session.add(application)
     try:
-
-        db.session.commit()
+        #db.session.commit()
+        app.logger.debug('db.session.commit()')
     except Exception as err:
         app.logger.error(err)
         db.session.rollback()

@@ -770,3 +770,25 @@ function _init() {
     });
   };
 }(jQuery));
+var alertsetTime;
+function alertMsg(text,type){
+  if (!$("#alertMsgBox").length) {
+  var html =  '<div class="box box-danger box-solid" id="alertMsgBox">'
+              +'  <div class="box-header with-border">'
+              +'    <h3 class="box-title">提示</h3>'
+              +'    <div class="box-tools pull-right">'
+              +'      <button type="button" class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>'
+              +'    </div>'
+              +'  </div>'
+              +'  <div class="box-body"></div>'
+              +'</div>'
+    $("body").append(html)
+    }
+    if (!text) text="提示内容不可为空";
+    if (!type) type?type:"default";
+    clearTimeout(alertsetTime);
+    $("#alertMsgBox").attr("class","box box-"+type+" box-solid").stop().slideDown("slow").find(".box-body").html(text);
+  alertsetTime = setTimeout(function(){
+    $("#alertMsgBox").slideUp("slow");
+  },4000)
+}

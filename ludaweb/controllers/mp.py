@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 import hashlib
+
+from wxpy import Tuling
+
 from ludaweb import app
 from flask import make_response, request
 import xml.etree.ElementTree as ET
@@ -15,6 +18,9 @@ params_ask = ibotcloud.AskParams(platform="custom", user_id="abc", url="http://n
                                  response_format="xml")
 
 ask_session = ibotcloud.AskSession(signature_ask, params_ask)
+
+
+tuling = Tuling(api_key='')
 
 
 @app.endpoint('webhook')
@@ -81,8 +87,10 @@ def mphook():
             response.content_type = 'application/xml'
             return response
         else:
-            ret_ask = ask_session.get_answer(xml_rec.find('Content').text)
-            response = make_response(xml_rep % (fromu, tou, str(int(time.time())), ret_ask.http_body.decode()))
+            ret_ask = tuling.do_reply(xml_rec.find('Content').text)
+            #ret_ask = ask_session.get_answer(xml_rec.find('Content').text)
+            #response = make_response(xml_rep % (fromu, tou, str(int(time.time())), ret_ask.http_body.decode()))
+            response = make_response(xml_rep % (fromu, tou, str(int(time.time())), ret_ask))
             response.content_type = 'application/xml'
             return response
     return 'Hello weixin!'
